@@ -4,4 +4,4 @@ public class TestPrint {
     System.out.println("Hello New Project!");
   }
 
-}
+}go
